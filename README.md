@@ -35,7 +35,7 @@ acme.sh --renew -d {{HOST}}
 
 ```bash
 # clone 代码，进入项目根目录
-git clone ssh://git@gogs.jabez.tech:10022/actmerce/tls-secrets.git
+git clone git@github.com:Actmerce/k8s-tls-with-acme.sh.git
 cd tls-secrets
 
 # 安装证书
